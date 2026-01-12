@@ -1,0 +1,9 @@
+1. Session Topic: Amazon Q Business and Demonstration of how it works
+   You Tube Recording Link: https://www.youtube.com/watch?v=Os4ccYpIbHg
+2. Session Topic: Cloud Fundamentals session, the 1st session of Cloud Builder Series.
+   You Tube Recording Link: https://www.youtube.com/watch?v=Rf5jQ2HUDZU
+3. Session Topic: Storage Deep Dive With AWS Storage, the 2nd session of the Cloud Builder Series
+   You Tube Recording Link: https://www.youtube.com/watch?v=kWrUBTL5Wl0
+     	
+
+
