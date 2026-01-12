@@ -1,0 +1,2 @@
+Name: Understanding ‘AWS PrivateLink’ with a real-world use case
+Link: https://www.linkedin.com/pulse/understanding-aws-privatelink-real-world-use-case-kumar-aws-csa-bhv8e/
