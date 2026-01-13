@@ -4,7 +4,7 @@
    
    1. #### Virtual Sessions
       - Delivered in February 2025
-        1. [One of the vastly used AWS AI Servivces/tools, **Amazon Q Business** and Demonstration of how it works] (https://www.youtube.com/watch?v=Os4ccYpIbHg)
+        1. [Talked about one of the vastly used AWS AI Servivces/tools, **Amazon Q Business** and Demonstration of how it works] (https://www.youtube.com/watch?v=Os4ccYpIbHg)
       - Delivered in November 2025
         1. [**Cloud Fundamentals session**, the 1st session of Cloud Builder Series for '**AWS UG for Women In Tech India**'] (https://www.youtube.com/watch?v=Rf5jQ2HUDZU)
       - Delivered in December 2025
