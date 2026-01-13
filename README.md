@@ -6,10 +6,10 @@
       - Delivered in February 2025
         1. [Talked about one of the vastly used AWS AI Servivces/tools, **Amazon Q Business** and Demonstration of how it works] (https://www.youtube.com/watch?v=Os4ccYpIbHg)
       - Delivered in November 2025
-        1. [**Cloud Fundamentals session**, the 1st session of Cloud Builder Series for '**AWS UG for Women In Tech India**'] (https://www.youtube.com/watch?v=Rf5jQ2HUDZU)
+        1. [**Cloud Fundamentals Session**, the 1st session of Cloud Builder Series for '**AWS UG for Women In Tech India**'] (https://www.youtube.com/watch?v=Rf5jQ2HUDZU)
       - Delivered in December 2025
         1. [Storage Deep Dive With AWS Storage, the 2nd session of the Cloud Builder Series for '**AWS UG for Women In Tech India**'. It also has S3 hands-on] (https://www.youtube.com/watch?v=kWrUBTL5Wl0)
-    2. ### In Person Session
+    2. ### In Person Sessions
        - Delivered in April 2025
          1. [Delivered the speech as one of the **guest speakers** at **Westminster Adult Education Service (WAES), Westminster, London**.
 
